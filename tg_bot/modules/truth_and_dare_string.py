@@ -71,3 +71,7 @@ DARE = (
     "Set your crush’s picture as your dp.",
     "Suggest me more dares.",
 )
+ANIMEQOUTE=(
+    "AgADBQAD36oxG5APgVX5A5v1PSwb6WchTWx0AAMBAAMCAAN5AAMdGAUAARYE"
+    "AgADBQAD4KoxG5APgVUDs_Dh_OEmoPoSSmx0AAMBAAMCAAN5AAP3GQUAARYE"
+)
